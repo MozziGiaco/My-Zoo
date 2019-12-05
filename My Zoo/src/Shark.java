@@ -21,4 +21,4 @@ public class Shark extends SharkFish
 				food = "Seals";
 			}
 
-	}
+	} 

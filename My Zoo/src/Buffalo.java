@@ -21,4 +21,4 @@ public class Buffalo extends Mammal
 						+ " are active at both night and day, meaning they are both diurnal and nocturnal.");
 			}
 
-	}
+	} 

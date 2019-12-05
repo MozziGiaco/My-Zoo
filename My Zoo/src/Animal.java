@@ -14,4 +14,4 @@ public abstract class Animal
 			{
 				System.out.println("The " + name + " likes to eat " + food + ".");
 			}
-	}
+	} 

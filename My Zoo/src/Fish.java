@@ -8,4 +8,4 @@ public abstract class Fish extends Animal
 				System.out.println("The " + name + " bears its young by laying eggs.");
 			}
 
-	}
+	} 

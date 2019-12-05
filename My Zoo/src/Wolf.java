@@ -19,5 +19,5 @@ public class Wolf extends Mammal
 			{
 				System.out.println("The " + name + " likes to sleep during the day, meaning it is nocturnal.");
 			}
-
+ 
 	}

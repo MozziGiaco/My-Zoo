@@ -21,4 +21,4 @@ public class Tiger extends Mammal
 						+ " likes to sleep during the day and is active at night, meaning it is nocturnal.");
 			}
 
-	}
+	} 
